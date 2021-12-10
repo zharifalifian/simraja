@@ -1,0 +1,21 @@
+{
+  "name": "magang",
+  "version": "1.0.0",
+  "description": "Aplikasi Sistem Informasi Kolaborasi Kerja",
+  "main": "index.js",
+  "scripts": {
+    "test": "magang"
+  },
+  "repository": {
+    "type": "git",
+    "url": "simraja"
+  },
+  "keywords": [
+    "simraja"
+  ],
+  "author": "admin",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
